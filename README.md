@@ -3,6 +3,11 @@
 Project One: M3 Directory <br>
 Project Two: M7 Folder <br><br>
 
+M2/ Dependency checking and mitigation reporting <br>
+M4/ Algorithm Ciphers<br>
+M5/ Checksum Verification and Certificate Generation <br>
+M6/ Modifying Vulnerability Reporting and Suppressing false positives <br>
+
 # Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
 
 Artemis Financial is a consulting company that develops individualized financial plans for its customers, which include savings, retirement, investments, and insurance plans. Artemis Financial wants to modernize its operations. As a part of the success of their custom software, Artemis Financial wants to use the most current and effective software security. Artemis Financial makes use of a public web interface and seeks expertise about how to protect its client data and financial information. Specifically, Artimus Financial wanted to add a file verification step to their web application to ensure secure communication. When the web application is used to transfer data, they needed a data verification step in the form of a checksum. Secure communication mechanisms were implemented to meet their software security requirements and a production-quality integrated application that includes secure coding protocols was delivered.
