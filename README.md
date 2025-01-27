@@ -1,7 +1,7 @@
 # Software-Security
 
 Project One: M3 Directory <br>
-Project Two: M7 Folder <br><br>
+Project Two: M7 Directory <br><br>
 
 M2/ Dependency checking and mitigation reporting <br>
 M4/ Algorithm Ciphers<br>
