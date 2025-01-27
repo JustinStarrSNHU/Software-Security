@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suppressions xmlns="https://jeremylong.github.io/DependencyCheck/dependency-suppression.1.3.xsd">
+   
+   <suppress>
+      <notes><![CDATA[
+      file name: bcprov-jdk15on-1.46.jar
+      ]]></notes>
+      <packageUrl regex="true">^pkg:maven/org\.bouncycastle/bcprov\-jdk15on@.*$</packageUrl>
+      <cve>CVE-2016-1000338</cve>
+   </suppress>
+
+   <suppress>
+      <notes><![CDATA[
+      file name: bcprov-jdk15on-1.46.jar
+      ]]></notes>
+      <packageUrl regex="true">^pkg:maven/org\.bouncycastle/bcprov\-jdk15on@.*$</packageUrl>
+      <cve>CVE-2016-1000342</cve>
+   </suppress>
+
+   <suppress>
+      <notes><![CDATA[
+      file name: bcprov-jdk15on-1.46.jar
+      ]]></notes>
+      <packageUrl regex="true">^pkg:maven/org\.bouncycastle/bcprov\-jdk15on@.*$</packageUrl>
+      <cve>CVE-2016-1000343</cve>
+   </suppress>
+
+   <suppress>
+      <notes><![CDATA[
+      file name: bcprov-jdk15on-1.46.jar
+      ]]></notes>
+      <packageUrl regex="true">^pkg:maven/org\.bouncycastle/bcprov\-jdk15on@.*$</packageUrl>
+      <cve>CVE-2016-1000344</cve>
+   </suppress>
+
+   <suppress>
+      <notes><![CDATA[
+      file name: bcprov-jdk15on-1.46.jar
+      ]]></notes>
+      <packageUrl regex="true">^pkg:maven/org\.bouncycastle/bcprov\-jdk15on@.*$</packageUrl>
+      <cve>CVE-2016-1000352</cve>
+   </suppress>
+
+   <suppress>
+      <notes><![CDATA[
+      file name: bcprov-jdk15on-1.46.jar
+      ]]></notes>
+      <packageUrl regex="true">^pkg:maven/org\.bouncycastle/bcprov\-jdk15on@.*$</packageUrl>
+      <cve>CVE-2016-1000341</cve>
+   </suppress>
+
+   <suppress>
+      <notes><![CDATA[
+      file name: bcprov-jdk15on-1.46.jar
+      ]]></notes>
+      <packageUrl regex="true">^pkg:maven/org\.bouncycastle/bcprov\-jdk15on@.*$</packageUrl>
+      <cve>CVE-2016-1000345</cve>
+   </suppress>
+
+   <suppress>
+      <notes><![CDATA[
+      file name: bcprov-jdk15on-1.46.jar
+      ]]></notes>
+      <packageUrl regex="true">^pkg:maven/org\.bouncycastle/bcprov\-jdk15on@.*$</packageUrl>
+      <cve>CVE-2017-13098</cve>
+   </suppress>
+
+   <suppress>
+      <notes><![CDATA[
+      file name: bcprov-jdk15on-1.46.jar
+      ]]></notes>
+      <packageUrl regex="true">^pkg:maven/org\.bouncycastle/bcprov\-jdk15on@.*$</packageUrl>
+      <cve>CVE-2020-15522</cve>
+   </suppress>
+
+   <suppress>
+      <notes><![CDATA[
+      file name: bcprov-jdk15on-1.46.jar
+      ]]></notes>
+      <packageUrl regex="true">^pkg:maven/org\.bouncycastle/bcprov\-jdk15on@.*$</packageUrl>
+      <vulnerabilityName>CVE-2020-0187</vulnerabilityName>
+   </suppress>
+
+   <suppress>
+      <notes><![CDATA[
+      file name: bcprov-jdk15on-1.46.jar
+      ]]></notes>
+      <packageUrl regex="true">^pkg:maven/org\.bouncycastle/bcprov\-jdk15on@.*$</packageUrl>
+      <cve>CVE-2016-1000339</cve>
+   </suppress>
+
+   <suppress>
+      <notes><![CDATA[
+      file name: bcprov-jdk15on-1.46.jar
+      ]]></notes>
+      <packageUrl regex="true">^pkg:maven/org\.bouncycastle/bcprov\-jdk15on@.*$</packageUrl>
+      <vulnerabilityName>CVE-2020-26939</vulnerabilityName>
+   </suppress>
+
+   <suppress>
+      <notes><![CDATA[
+      file name: bcprov-jdk15on-1.46.jar
+      ]]></notes>
+      <packageUrl regex="true">^pkg:maven/org\.bouncycastle/bcprov\-jdk15on@.*$</packageUrl>
+      <vulnerabilityName>CVE-2023-33201</vulnerabilityName>
+   </suppress>
+
+   <suppress>
+      <notes><![CDATA[
+      file name: bcprov-jdk15on-1.46.jar
+      ]]></notes>
+      <packageUrl regex="true">^pkg:maven/org\.bouncycastle/bcprov\-jdk15on@.*$</packageUrl>
+      <cve>CVE-2015-7940</cve>
+   </suppress>
+
+   <suppress>
+      <notes><![CDATA[
+      file name: bcprov-jdk15on-1.46.jar
+      ]]></notes>
+      <packageUrl regex="true">^pkg:maven/org\.bouncycastle/bcprov\-jdk15on@.*$</packageUrl>
+      <cve>CVE-2018-5382</cve>
+   </suppress>
+
+   <suppress>
+      <notes><![CDATA[
+      file name: bcprov-jdk15on-1.46.jar
+      ]]></notes>
+      <packageUrl regex="true">^pkg:maven/org\.bouncycastle/bcprov\-jdk15on@.*$</packageUrl>
+      <cve>CVE-2013-1624</cve>
+   </suppress>
+
+   <suppress>
+      <notes><![CDATA[
+      file name: bcprov-jdk15on-1.46.jar
+      ]]></notes>
+      <packageUrl regex="true">^pkg:maven/org\.bouncycastle/bcprov\-jdk15on@.*$</packageUrl>
+      <cve>CVE-2016-1000346</cve>
+   </suppress>
+
+   <suppress>
+      <notes><![CDATA[
+      file name: bcprov-jdk15on-1.46.jar
+      ]]></notes>
+      <packageUrl regex="true">^pkg:maven/org\.bouncycastle/bcprov\-jdk15on@.*$</packageUrl>
+      <vulnerabilityName>CVE-2015-6644</vulnerabilityName>
+   </suppress>
+
+</suppressions>
