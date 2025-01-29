@@ -1,12 +1,23 @@
 # Software-Security
 
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+# Hello, and welcome to the Software Security Repository of my Academic Projects🖐️
+
+Developed secure code that complies with security testing protocols and learned encryption technologies and techniques for communicating securely. Assessed security vulnerabilities and mitigation strategies.
+
+# 📖 Table of Contents
+
 Project One: M3 Directory <br>
 Project Two: M7 Directory <br><br>
 
-M2/ Dependency checking and mitigation reporting <br>
-M4/ Algorithm Ciphers<br>
-M5/ Checksum Verification and Certificate Generation <br>
-M6/ Modifying Vulnerability Reporting and Suppressing false positives <br>
+> 📌 M2/ Dependency checking and mitigation reporting 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Software-Security/tree/main/M2)<br>
+📌 M3/ Project One: Vulnerability Assessment Report 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Software-Security/tree/main/M3)<br>
+📌 M4/ Algorithm Ciphers 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Software-Security/tree/main/M4)<br>
+📌 M5/ Checksum Verification and Certificate Generation  👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Software-Security/tree/main/M5)<br>
+📌 M6/ Modifying Vulnerability Reporting and Suppressing false positives 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Software-Security/tree/main/M6)<br>
+📌 M7/ Project Two and application files 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Software-Security/tree/main/M7)<br>
 
 # Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
 
